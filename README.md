@@ -82,7 +82,7 @@ SafeDeliver addresses the challenges faced by delivery workers, including safety
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to contribute to the project. Ensure to follow the contribution guidelines.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [MIT](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please contact [your-seemayash012@gmail.com](mailto:seemayash012@gmail.com).
